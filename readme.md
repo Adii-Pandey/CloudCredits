@@ -1,4 +1,4 @@
-Description
+**Description**
 1.This project aims to understand sentiment changes from 2010 to 2023 on popular social media platforms based on certain attributes and how they impact each other.
 2.This project explores the standard procedure of data analysis, including data preprocessing, feature engineering, EDA and supervised machine learning.
 3.This project introduces the standard procedure of natural language processing(text clearning, word embedding, etc.), and used multiclass classification models for sentiment analysis.
