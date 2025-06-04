@@ -1,4 +1,5 @@
-Introduction
+**Introduction**
+
 What is Customer Churn?
 Customer churn is defined as when customers or subscribers discontinue doing business with a firm or service. In the telecommunications industry, customers can choose from a variety of service providers and actively switch from one to the next. The telecommunications business experiences an annual churn rate of 15-25 percent in this highly competitive market.
 Individualized customer retention is challenging because most firms have a large number of customers and can't afford to devote much time to each of them. The costs would be too great, outweighing the additional revenue. However, if a corporation could forecast which customers are likely to leave ahead of time, it could focus customer retention efforts only on these "high risk" clients.
@@ -13,7 +14,9 @@ Web-based transactions
 Social media interactions
 
 By addressing churn, businesses can not only preserve their market position but also grow and thrive. The more customers they have in their network, the lower the cost of initiation and the larger the profit.
-Dataset
+
+**Dataset**
+
 The project uses a telecommunications customer dataset containing various customer attributes and service information. The dataset includes features such as:
 
 Customer demographics
@@ -23,7 +26,7 @@ Monthly charges
 Contract details
 Churn status (target variable)
 
-Project Objectives
+**Project Objectives**
 This project explores the data to answer key business questions:
 
 What's the percentage of churned customers vs. customers that remain with active services?
