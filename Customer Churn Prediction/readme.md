@@ -11,10 +11,15 @@ Customer churn is a critical metric because it is much less expensive to retain 
 To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. To detect early signs of potential churn, one must first develop a holistic view of the customers and their interactions across numerous channels, including:
 
 -Store/branch visits
+
 -Product purchase histories
+
 -Customer service calls
+
 -Web-based transactions
+
 -Social media interactions
+
 
 By addressing churn, businesses can not only preserve their market position but also grow and thrive. The more customers they have in their network, the lower the cost of initiation and the larger the profit.
 
@@ -23,11 +28,17 @@ By addressing churn, businesses can not only preserve their market position but 
 The project uses a telecommunications customer dataset containing various customer attributes and service information. The dataset includes features such as:
 
 -Customer demographics
+
 -Account information
+
 -Service subscriptions
+
 -Monthly charges
+
 -Contract details
+
 -Churn status (target variable)
+
 
 **Project Objectives**
 This project explores the data to answer key business questions:
